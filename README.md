@@ -1,4 +1,4 @@
 # hello_world
 just a starter training project
 
-I just followed these instructions for this.. https://guides.github.com/activities/hello-world/
+I am a devloper from the past here to develop the future. How did I get here, well I followed these instructions... https://guides.github.com/activities/hello-world/
